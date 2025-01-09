@@ -1,13 +1,7 @@
-# What is Syndika
+**Syndika excels at investing in and nurturing Web3 startups, utilizing exceptional technology, economic, and cybersecurity capabilities.**
 
-Syndika is a top-notch Web3 and AI syndicate, with full scale capabilities to support startups, corporates, and initiatives.
+# About Syndika
 
-# Syndicate Activity
-
-Syndika is focusing on Web3/AI architecture and R&D, economics - theory and practice, and startup venture building.
-
-With 50+ team members, we offer the highest level of Web3 technology consulting, architecture and development, economics and data science, and A to Z venture studio capabilities to support startups.
-
-# The Syndicate
-
-Syndika is managed by Web3 veterans, Executive Members, supported by the syndicate Members and Associates, leading Web3 figures and companies, and reinforced by highly skilled Advisors and Partners.
+Excitement and innovation are what drive Web3, but success requires more than a brilliant idea. At Syndika, builders get flexible access to strategic guidance from a network of experienced members who’ve walked this path before—plus world-class Web3 services in technology, economics, cybersecurity and compliance.
+ 
+As a Web3 global leader with 8 years of experience, our team of 60+ experts boasts a track record of 85+ successful projects and 15 startups valued at over USD 1 billion, driving innovation and growth.
